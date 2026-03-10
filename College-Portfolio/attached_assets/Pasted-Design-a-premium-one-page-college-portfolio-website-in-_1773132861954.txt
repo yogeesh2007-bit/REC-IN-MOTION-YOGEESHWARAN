@@ -1,0 +1,59 @@
+Design a premium one-page college portfolio website in Figma called “REC in Motion”.
+
+Concept:
+This is a cinematic, AI-enhanced visual storytelling portfolio built from original campus photography captured live during an event. The website should feel modern, stylish, immersive, and emotionally engaging, presenting the college as a vibrant space of learning, collaboration, nature, focus, and movement.
+
+Design direction:
+Use a luxury editorial style mixed with modern startup website aesthetics. Make the interface feel cooler, sharper, and more premium than a normal college website. Use a dark cinematic overlay on hero sections, strong typography, elegant spacing, glassmorphism cards, soft shadows, rounded corners, and smooth scrolling section transitions. Use purple and gold as the main accent palette inspired by the college branding in the photos, balanced with charcoal, off-white, and muted gray.
+
+Layout:
+Create a fully responsive landing page design for desktop first, width 1440px.
+Use a strong visual hierarchy and large photo-led sections.
+Keep navigation minimal and clean.
+
+Sections to design:
+1. Hero section
+- Full-width background image area for the strongest student photo
+- Top navbar with logo and links: Story, Moments, Gallery, About
+- Small eyebrow text: “AI-enhanced campus portfolio”
+- Main heading: “Where learning, energy, and identity meet”
+- Subheading: “A visual journey through the spaces, people, and moments that shape our campus.”
+- Primary CTA: “Explore the Story”
+- Secondary CTA: “View Moments”
+- Floating glass card on the right or lower side showing:
+  9 Original Moments
+  1 Curated Story
+  Captured Live on Campus
+
+2. About the story
+- Clean two-column section
+- Left side: title and short copy about the campus portfolio
+- Right side: space for one architectural or campus entrance image
+- Add 3 small tags: Focus, Collaboration, Motion
+
+3. Signature moments
+- Premium card-based layout with 3 featured moments
+- Each card has large image placeholder, short title, and one-line caption
+- Titles can be: Mentorship, Study Culture, Campus Rhythm
+
+4. Smart gallery
+- Masonry or structured grid of campus images
+- Add subtle category chips: Learning, Nature, Community, Energy
+- Hover effect for captions
+
+5. Highlights section
+- 4 metric or statement cards with elegant icons
+- Examples: Learning Spaces, Community Interactions, Green Corners, Everyday Energy
+
+6. Closing section
+- Full-width emotional photo block
+- Closing line: “More than a campus. A living story.”
+- Simple footer
+
+Style rules:
+- Make it feel like a high-end portfolio, not an admin dashboard
+- Minimal text, strong photo-first storytelling
+- Use auto layout everywhere
+- Clean grid, excellent spacing, modern responsive UI
+- Avoid clutter, avoid generic education website style
+- The page should feel like a design competition winner
